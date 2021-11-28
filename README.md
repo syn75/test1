@@ -1,2 +1,2 @@
-# test1
+# test1.gh
 My first GitHub test
